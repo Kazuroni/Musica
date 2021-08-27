@@ -29,6 +29,7 @@ namespace Musica
             Console.WriteLine("Subete no gisei wa ima, kono toki no tame ni");
             Console.WriteLine("Sasageyo! Sasageyo! Shinzo wo Sasageyo!");
             Console.WriteLine("Susumubeki mirai o sono-te de kiri hirake!");
+            Console.ResetColor();
         }
     }
 }
